@@ -18,6 +18,7 @@ namespace ConsoleApp1
 
             Console.WriteLine(num2);
 
+
             Console.ReadLine();
         }
     }
